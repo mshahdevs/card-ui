@@ -2,15 +2,9 @@
 
 A modern, responsive card UI built with **HTML** and **CSS** featuring developer profiles, animated hover effects, and sleek glassmorphism styling.
 
-🔗 **Live Demo** (optional): _[(https://mshahdevs.github.io/card-ui/)]_
+🔗 **Live Demo** : https://mshahdevs.github.io/card-ui/
 
----
 
-## 📸 Preview
-
-![Card UI Preview](./preview.png) <!-- Replace with actual screenshot if you upload one -->
-
----
 
 ## 🚀 Features
 
